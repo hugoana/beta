@@ -9,7 +9,7 @@ botao.addEventListener('click', function() {
 
   // Verifica se o usuário digitou alguma coisa
   if (nome && nome.trim() !== '') {
-    alert(`Obrigada pelo contato, ${nome}! Ana Lima vai responder em breve. 😊`);
+    alert(`Obrigada pelo contato, ${nome}! Hugo Gabriel vai responder em breve. 😊`);
   } else {
     alert('Por favor, informe seu nome para entrarmos em contato!');
   }
